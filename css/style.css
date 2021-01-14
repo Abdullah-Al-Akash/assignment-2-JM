@@ -59,8 +59,9 @@ h2{
         text-align: center;
     }
 }
-@media screen and (max-width: ≥576px){
+@media screen and (max-width: 576px){
     .contact-icon{
-        size: 50px;
-    } 
+        width: 30%!important;
+        margin: 0 34%!important;
+    }
 }
